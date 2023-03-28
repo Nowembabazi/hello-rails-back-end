@@ -149,7 +149,7 @@ Heroku (Paid)
 <!-- FRONT-END REPOSITORY -->
 ## 💻 Front-end Repository <a name="frontend-repo"></a>
 
-- [Click Here](https://github.com/nowembabazi/hello-react-front-end)
+- [Click Here](https://github.com/nowembabazi/hello-react-front-end/tree/feature-branch)
 
 - Clone this repository to your desired folder:
 
